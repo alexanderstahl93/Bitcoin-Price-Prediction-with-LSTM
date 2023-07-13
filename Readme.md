@@ -57,3 +57,6 @@ There are several ways the model could potentially be improved:
 
 ### Contact
 If you have any questions or suggestions, feel free to open an issue or make a pull request.
+
+### Check out my related article on LinkedIn
+https://www.linkedin.com/pulse/how-you-can-build-simple-ai-model-predict-price-bitcoin-stahl
